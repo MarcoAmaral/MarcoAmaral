@@ -7,8 +7,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=17&duration=2800&pause=1400&color=CFE0FF&center=true&vCenter=true&width=640&lines=%E2%80%BA+QA+strategy%3A+what+to+test+and+when+to+ship;%E2%80%BA+Playwright+automation+your+team+will+run;%E2%80%BA+QA+audits+with+a+prioritized+bug+report;%E2%80%BA+Migration+from+Cypress+or+Selenium">
-    <img alt="QA strategy, Playwright automation, QA audits, migration to Playwright" src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=17&duration=2800&pause=1400&color=13233F&center=true&vCenter=true&width=640&lines=%E2%80%BA+QA+strategy%3A+what+to+test+and+when+to+ship;%E2%80%BA+Playwright+automation+your+team+will+run;%E2%80%BA+QA+audits+with+a+prioritized+bug+report;%E2%80%BA+Migration+from+Cypress+or+Selenium">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
+    <img alt="QA strategy, Playwright automation, QA audits, migration to Playwright" src="assets/typing-light.svg">
   </picture>
 </p>
 
@@ -46,6 +46,6 @@ Read the case studies at **[marcoamaral.com](https://marcoamaral.com/case-studie
 
 Available for contract and freelance QA work, remote, in English or Portuguese.
 
-[![Get in touch](https://img.shields.io/badge/Get_in_touch-13233F?style=for-the-badge)](https://marcoamaral.com/contact/?utm_source=github&utm_medium=readme)
-[![marcoamaral.com](https://img.shields.io/badge/marcoamaral.com-1D5FD1?style=for-the-badge)](https://marcoamaral.com/?utm_source=github&utm_medium=readme)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F7B5C?style=for-the-badge)](https://www.linkedin.com/in/marco-amaral-qa/)
+[![Get in touch](assets/badge-contact.svg)](https://marcoamaral.com/contact/?utm_source=github&utm_medium=readme)
+[![marcoamaral.com](assets/badge-site.svg)](https://marcoamaral.com/?utm_source=github&utm_medium=readme)
+[![LinkedIn](assets/badge-linkedin.svg)](https://www.linkedin.com/in/marco-amaral-qa/)
